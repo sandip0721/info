@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Sandip Rathod",
+    "occupation": "FullStack Developer",
+    "description": "I eat, sleep and breath Technology",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sandip!. I've been coding for over 2 years now. As a Full Stack developer. I have worked both on small and large projects that help build strong skills.Along the journey i realised my passion existed in learning new things and implementing in projects to makes people life easier and faster.",
+    "contactmessage": "Get in touch with me",
+    "email": "rathod2sandip1997@gmail.com",
+    "phone": "+918390148349",
+    "address": {
+      "city": "India",
+      "state": "Maharashtra",
+      "District": "Yavatmal",
+      "zip": "445110"
+    },
+
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sandip-rathod-5492a22aa/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/sandip0721",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Sant Gadge Baba University-Amravati",
+        "degree": "Bachelor's Degree, Electronics and telecommunication",
+        "graduated": "July 2020",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Web Development",
+        "title": "FullStack Developer",
+        "years": "May 2020 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "60%"
+      },
+      {
+        "name": "Go",
+        "level": "65%"
+      },
+      {
+        "name": "ScyllaDB",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "Tailwind Css",
+        "level": "70%"
+      },
+      {
+        "name": "Docker",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Zeptagram",
+        "category": "FullStack",
+        "description": "Managed front-end, back-end development and stellar blockchain for Zeptagram, an music based web application for buying, selling nfts.",
+
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1pvHxD89LOP3ea73b2er7XB7HchMU8YGrRZT0ckqqKyHSui4eexkWQys1zQ_hrwj79aM&usqp=CAU",
+        "demo": "https://zeptagram-wax.web.app/",
+        "url": ""
+      },
+      {
+        "title": "MakeMyTale",
+        "category": "FullStack",
+        "description": "Managed front-end and back-end development for MakeMyTale, an AI-driven website enabling users to create personalized stories by selecting themes and characters, with the option to customize generated tales.",
+        "image": "https://ph-files.imgix.net/4d69e0bb-4d65-46e4-8116-5d8c66b87ca3.jpeg?auto=format",
+        "demo": "https://makemytale.com/",
+        "url": ""
+      },
+      {
+        "title": "ZBrain",
+        "category": "FullStack",
+        "description": "Managed front-end and back-end development for ZBrain.ai, a platform enabling businesses to easily build and deploy custom generative AI chatbot applications using large language models.",
+        "image": "data:image/png;base64,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",
+        "demo": "https://zbrain.ai/",
+        "url": ""
+      },
+      {
+        "title": "Ultrafan",
+        "category": "FullStack",
+        "description": "Managed front-end and back-end development, along with code deployment, for Ultrafan, a platform for selling blocks and packs of ground for football sports.",
+        "image": "data:image/jpeg;base64,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",
+        "demo": "https://app.fanblock.com/",
+        "url": ""
+      }
+    ]
+  }
+}
